@@ -66,4 +66,4 @@ Acerca de la psicología de las usuarias, suelen variar entre introvertidas y ex
 
 Lo que principalmete las motiva al momento de comprar es ahorrar, que los productos tengan información detallada y que puedan pagar de varias formas. 
 
-Por otro lado, les frustra que pueda existir inseguridad comprando en línea, desorden y entrega fuera de tiempo 
+Por otro lado, les frustra que pueda existir inseguridad comprando en línea, desorden y entrega fuera de tiempo.
