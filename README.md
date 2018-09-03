@@ -1,19 +1,8 @@
-# Plataforma de ventas en línea
+# MARKET PLACE - ONE LOVE
 
-## Preámbulo
+## Objetivo del proyecto
 
-En el mundo hay muchas formas de vender en línea, el porcentaje de compradores
-online sigue creciendo y la gama de cosas que pueden comprar también lo hace.
-Como compradores no siempre somos conscientes de todo lo que debe pasar para que
-los productos que necesitamos estén en una repisa del supermercado o de una
-tienda. En el comercio minorista hay una serie de intermediarios que en
-ocasiones nos hacen perder la pista del ‘viaje’ de un producto; un viaje que va
-encareciendo el producto por cada empresa por la que debe pasar hasta que llega
-a las manos de nosotros, los consumidores.
-En esta realidad hay dos actores perjudicados: el consumidor, que acaba pagando
-más por un producto y el productor o fabricante, que se ve presionado a vender
-más barato para que su producto llegue al consumidor a un precio asequible y que
-todos puedan beneficiarse en el camino.
+Diseñar un nuevo portal de e -comerce para una empresa minorista. De esta manera, este negocio puede comercializar sus productos sin intermediarios. De esta manera, se reducirían los costos para los fabricantes y los usuarios también podrían acceder a comprar a un menor precio.
 
 ## Introducción
 
