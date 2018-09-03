@@ -25,7 +25,7 @@ Al entrar en contacto con la página de facebook, los usuarios suelen estar muy 
 ![logo marca](https://fotos.subefotos.com/42b1407fcfa6722cd5c90ff8453d3d66o.jpg)
 
 Tambien se sintetizó en un user persona:
-https://subefotos.com/ver/?b9d1f76725aee8756b3e05f8c134ef22o.jpg#codigos
+![user person]https://subefotos.com/ver/?b9d1f76725aee8756b3e05f8c134ef22o.jpg#codigos
 
 
 ## Definición de la solución
