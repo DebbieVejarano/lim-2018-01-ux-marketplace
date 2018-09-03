@@ -4,302 +4,64 @@
 ![logo marca](https://fotos.subefotos.com/8c63d1a6803f585ecc0215a4cfd672e8o.jpg)
 
 ## Objetivo del proyecto
-
 Diseñar un nuevo portal de e -comerce para una empresa minorista. De esta manera, este negocio puede comercializar sus productos sin intermediarios. De esta manera, se reducirían los costos para los fabricantes y los usuarios también podrían acceder a comprar a un menor precio.
 
-## Introducción
+## ¿Qué es One Love?
+One Love es una tienda para señoritas entre 18 y 30 años. Su éxito radica, principalmente, al boom de las redes sociales. En la actualidad venden productos por facebook e Instagram.
+Revisa [presentación del producto](https://docs.google.com/presentation/d/1sAYuZ9awqnoQYfLkG3-8BLhILsEGoHF6EoWFpeu5KX4/edit?usp=sharing)
 
-### “Nuevo portal de e-commerce”
+## Problemas identificados durante la investigación
+Con respecto al cliente, su problema reside en desconocer la gestión de un market place que le permita reducir costos en pagar personal, alquiler y mantenimiento del local. Además de la gran oportunidad de optimizar sus ventas por delivery.
 
-Nos han contactado de la Asociación Nacional de Pequeños Comerciantes, una
-asociación que agrupa a pequeñas y medianas empresas productoras y fabricantes
-de alimentos naturales, postres, accesorios, vestimenta y calzado, y nos piden
-que asesoremos a **uno** de sus miembros en crear un portal desde donde los
-consumidores compren sus productos sin intermediarios. Entre los miembros puedes
-elegir a: 
+En lo que respecta a los usuarios, tienden a tener mucha desconfianza a comprar en línea, les preocupa la calidad y variedad de los productos y que les entreguen sus pedidos en el tiempo adecuado.
 
-- [Sr. Roos](https://www.facebook.com/Sr-Roos-879800158792372/)
-- [Sophie Crown](https://www.facebook.com/sophiecrownboutique/) 
-- [Le Pastel Bakery](https://www.instagram.com/lepastelbakery/)
-- [Delivery Fruta La Grande](https://www.facebook.com/Delivery-Fruta-La-Grande-143207576316285/)
-- [Closet911](https://www.facebook.com/closet911.pe/)
+## Definición del público objetivo
 
-Luego de elegir con qué miembro trabajarás, la ANPC te pide que ayudes a ese
-miembro a hacer un estudio inicial de cómo debería ser este portal de ventas y
-cómo deben ofrecer los productos a los consumidores. Quieren que averigües cómo
-son los consumidores que utilizaría este canal de venta y cuáles son sus
-motivaciones, cómo es el mercado actual en el que incursionarán; y que propongas
-una visión de cómo podría plantearse este nuevo canal de ventas.
+Gracias a la información obtenida de la cliente, conocemos que sus compradoras oscilan entre los 18 y 30 años. 
+Además, al sintetizar la información pudimos construir dos Journey Maps y un user persona.
+En cuanto al Journey Map, decidimos elaborar uno para compras por delivery y oreo para compras presenciales. Me voy a enfocar en explicar el primero, porque es el que más información nos puede aportar, ya que, estos usuarios serían nuestro público objetivo.
+Al entrar en contacto con la página de facebook, los usuarios suelen estar muy contentos porlos memes que publican y las imágenes de las prendas; sin embargo, al empezar a buscar información llega el primer punto de dolor y el más intenso por el desorden para encontrar el detalle de los productos. Después lo demás esta todo muy normal
 
-Una vez conozcas a los posibles compradores debes formular una propuesta de
-valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus
-beneficios a los usuarios y cómo va a vender sus productos. Para que guíes a la
-empresa que elijas a entender tu visión, esperan que les hagas una propuesta de
-cómo podría ser el portal donde las personas puedan buscar, ver, elegir y
-comprar sus productos.
+![logo marca](https://fotos.subefotos.com/42b1407fcfa6722cd5c90ff8453d3d66o.jpg)
 
-## Objetivos de aprendizaje
+Tambien se sintetizó en un user persona:
+https://subefotos.com/ver/?b9d1f76725aee8756b3e05f8c134ef22o.jpg#codigos
 
-El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
-de lo que un cliente quiere alcanzar a la definición de un producto digital en
-poco tiempo. Entender los principales pasos y preguntas que debemos hacernos,
-cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin
-perder de vista los objetivos iniciales.
-Esperamos que en este proyecto puedas entender las necesidades y falencias de
-las empresas, aprender y empezar a empaparte de los posibles modelos de negocio
-así como investigar a su audiencia, los usuarios que consumen sus productos,
-entendiendo sus preferencias y contexto en el que lo hacen.
 
-De la misma manera deberás definir cuál es la mejor forma de ofrecerle los
-productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
-sus objetivos. También, deberás definir los contenidos, la interacción y el
-diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta
-plataforma.
-Este proyecto se debe "resolver" en parejas, por lo que un objetivo importante
-es ganar experiencia en trabajos con entrega grupal. Cada uno de las integrantes
-será responsable de una parte del trabajo: (1) el entendimiento del problema y
-(2) planeamiento y validación de la solución.
+## Definición de la solución
+Decidimos solucionar tres aspectos que le interesan a los usuarios:la seguridad, la variedad y el tiempo de entrega.
+En cuánto a la seguridad, sí exite, lo que se haría en este caso es difundir mensajes relacionados en banners.
+En cuanto a la variedad, la marca tiene muchos productos; sin embargo, hay desorden en su presentación. Para ello se estructuraría una buena arquitectura de la información.
+En cuanto al tiempo de entrega, sí se llega a cumplir el acuerdo. Por ende, potenciaríamos este punto a favor con la posibilidad de que los usuarios vean el estado de su compra.
 
-## Tópicos a cubrir
+## Link a prototipos
+Revisa [el prototipo interactivo del desktop](https://www.figma.com/file/N2jgGGTyUkneynXbgbNFTRbM/ONE-LOVE-DESKTOP).
+Revisa [el prototipo interactivo del mobile](https://www.figma.com/file/FsLLFW4wGAOlJ0zEpD11TaQ3/ONE-LOVE-MOBILE-iteraci%C3%B3n).
 
-Para completar este proyecto tendrás que familiarizarte con conceptos como: UX
-research (entrevistas, benchmark), arquitectura de la información (flujo de
-contenido, mapa de sitio), diseño visual y de interacción (wireframes y
-prototipado), y user testing.
+## ¿Cómo resolvemos los contenidos y la funcionalidad del proyecto?
+El proyecto permite que los usuarios interactuan con una plataforma de venta de ropa en línea. De esta manera, pueden revisar prendas de su interés y comprarlas si así lo desean.
 
-## Consideraciones generales
+## ¿Cómo resolvemos los contenidos y funcionalidades del usuario final?
+El producto final, cuenta con un banner que difunde mensajes como "seguridad en su compra", una arquitectura de la información, como resultado de card sorting, ordenada por categorías y validada por los usuarios. Además, un registro de usuario que permitiría que pueda iniciar sesión y vea su estado de compra.
 
-Para ser una gran UX no sólo debes familiarizarte con los conceptos sino,
-también, poner a prueba tus habilidades blandas. El uso de tu curiosidad y
-empatía son claves para el éxito laboral.
-Para poder realizar una buena entrevista, un benchmark o un user testing
-necesitas en todo momento estar atenta al cómo y no sólo al qué. En este
-sentido, es esencial que practiques el modo en que te comunicas frente al
-cliente y el usuario. Debes pensar quiénes son y qué es lo que necesitan, y no
-sólo enfocarte en lo que tú quieres comunicar.
+## Video de 10 min
+Mira [el video explicando el proceso AQUÍ]
 
-* Relación con el cliente: la empresa miembro con la que te toque trabajar será
-tu cliente. Saber relacionarte con ellos no es fácil. Para comenzar una buena
-relación con el cliente debes escuchar de manera activa qué es lo que necesitan,
-haciendo preguntas que te ayuden a entender sus necesidades para luego buscar
-cómo resolverlas. No trates de dar soluciones inmediatas, escucha y pregunta, la
-curiosidad es clave para entender la problemática. El problema del cliente no
-siempre es el primero que parece, debes investigar la empresa y la competencia
-para entender lo que sucede. Para mantener una buena relación con los clientes
-debes mostrarle cómo se beneficiarán de lo que ofreces; enséñale los posibles
-resultados y el beneficio que ellos podrían obtener. También debes estudiar las
-mejores prácticas en la industria del comercio electrónico para poder mostrarle
-al cliente casos de éxito.
+## Definición del producto
 
-* Benchmark: revisar referencias y dar referencias es clave para tu relación con
-el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está
-haciendo la competencia o industrias similares. De esta manera, puedes traer
-buenas prácticas y evitar replicar aquellas que no son exitosas. Esto al cliente
-le da la confianza de que efectivamente tienes conocimiento de su problemática y
-que has estudiado todas las posibles soluciones. Para que el benchmark sea
-efectivo, tu curiosidad y pensamiento crítico deben ser altos; no sólo buscar
-las referencias que resulten obvias, sino otras industrias que puedan funcionar
-de manera similar o empresas pequeñas que están teniendo casos de éxito.
+### Propuesta de vaalor
+La página es bastante sensilla e intuitiva y permite ver el estado de compra de un producto, a diferencia de otras plataformas locales.
 
-* Presentación del plan, a dónde vas a ir y por qué: al resolver la problemática
-debes realizar un plan de trabajo, donde se visualicen las herramientas que
-estás utilizando y por qué las escogiste. No todas las problemáticas requieren
-que utilices las mismas herramientas. Debes utilizar la que mejor se ajuste. Es
-importante que siempre sustentes tu idea, no se trata de trabajar de manera
-mecánica para entregar algo al cliente, sino argumentar por qué esa es la mejor
-manera de aproximarse a una posible solución.
+### Contenidos que el usuario quiere ver
+El usuario quiere ver que interactua con una página segura, quiere ver imágenes de las prendas, quiere poder ver la descripción de los productos, las tallas exactas de las prendas y ofertas y promociones que lo animen a comprar.
 
-* Testing centrado en el usuario: Realizar las pruebas con los usuarios
-garantiza que los problemas se detecten antes, las buenas ideas se introducen
-más rápido y se reducen los esfuerzos de diseño y desarrollo de productos
-innecesarios. Steve Jobs, una vez dijo: "El diseño no es sólo cómo se ve y cómo
-se siente. El diseño es cómo funciona”. Las pruebas de usabilidad son una
-técnica que ayuda a evaluar un producto al probarlo con usuarios reales. El
-testing es una buena forma de profundizar en las necesidades y preferencias de
-los usuarios observando sus reacciones mientras usan un producto. Para que el
-testing realmente esté centrado en el usuario, tú debes centrarte también en él,
-actuando con curiosidad y empatía en todo momento, preguntando de manera activa
-al usuario qué podrías mejorar y buscar aquellos errores que llevarán tu
-producto al siguiente nivel. No trates de que el usuario apruebe tu producto,
-llévalo a buscar las mejoras y posibles errores, generando una relación de
-confianza con el usuario.
+### Mapa de sitio
 
-Tu curiosidad, empatía y pensamiento crítico son claves para tu éxito como UX
-Designer. En cada herramienta que utilices debes poner a prueba tus soft skills.
-Nunca des nada por supuesto, siempre pregunta hasta encontrar nuevas respuestas,
-debes actuar en todo momento con un pensamiento crítico, sino harás de manera
-mecánica tus proyectos sin encontrar soluciones innovadoras. Sé una
-investigadora, tu curiosidad es clave en los procesos creativos; pregunta
-constantemente y no intentes buscar soluciones inmediatas, aprende a navegar con
-la incertidumbre. La empatía es la habilidad que te va a guiar en las relaciones
-tanto con el cliente como con el usuario, intenta salir de tu mente y tus
-supuestos para entender cómo piensan los otros.
+### Resumen de entrevistas
+Como resumen general, las usuarias se caracterizan por seguir la moda urbana. Sin embargo, de vez en cuando no dudan en usar otras prendas como vestidos y blazers para ir a trabajar o sentirse más bonitas. Lo que más valoran a la hora de comprar es la seguridad porque viven en un entorno de delincuencia. Otro aspecto que tienen en común es la valoración del tiempo, este es el principal factor que las motiva a comprar por internet. Otros aspectos que valoran son la variedad y la calidad de los productos.
 
-## Parte Obligatoria
+Acerca de la psicología de las usuarias, suelen variar entre introvertidas y extrovertidas, generalmente se dejan llevar por sus sensaciones (El color, el tacto o simplemente como se ve un producto puede hacer que se lo lleven). Tambien son bastante emotivas y aveces compran por impulso. Sin embargo, tienden a tener prejuicios al momento de comprar por internet,
 
-### 1) General
+Lo que principalmete las motiva al momento de comprar es ahorrar, que los productos tengan información detallada y que puedan pagar de varias formas. 
 
-En este proyecto necesitarás salir a hablar con usuarios reales y entender
-cuáles son sus necesidades, cómo las resuelven actualmente y proponer una
-solución óptima para resolver estas necesidades. Mientras resuelves el proyecto
-vas a tener que ir documentando las actividades que realices a través de fotos,
-videos, textos y scripts. Utiliza tu en Google Drive para guardar toda esta
-documentación y luego linkea las partes más importantes en el `README.md` de tu
-repositorio en GitHub.
-
-En este caso el README.md será la portada de tu solución final, en él tendrás
-que mostrar la solución final a través de screenshots y podrás compartir links a
-las secciones que detallaremos más adelante.
-
-### 2) Entendimiento del problema
-
-Durante esta parte te asegurarás que el producto que diseñarás es el correcto,
-es decir, que sigue objetivos de negocio y que resuelve necesidades reales de
-los usuarios. Para ello tendrás que entender al cliente (el miembro de la
-Asociación Nacional de Pequeños Comerciantes con quien estás trabajando) y a los
-usuarios. Luego de entender el problema, tendrás que plantear cómo es que vas a
-resolver dicho problema. Para ello puedes realizar muchas actividades, sin
-embargo el tiempo y los recursos que tienes son limitados. Tendrás que elegir
-bien qué actividades realizarás.
-
-### 3) Planteamiento y validación de la solución
-
-Luego de haber definido cómo es que será la solución, es decir qué
-funcionalidades tendrá y por qué, tendrás que implementarla. En este caso,
-tendrás que hacer un prototipo de alta fidelidad y tendrás que validarlo. Cómo
-en el caso anterior, para crear y validar la solución puedes realizar muchas
-actividades, depende de ti elegir cuáles son las más adecuadas para el caso y
-los recursos que tienes.
-
-## Implementación
-
-Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
-puntos los podrás utilizar realizando las actividades del siguiente cuadro.
-Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach
-o jedi master cómo es que distribuirás estos puntos en estas actividades.
-El coach o jedi master te dará el ok para que puedas empezar.
-
-|Actividad|Descripción|Puntos|
-|:----|:---|:---:|
-|Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
-|Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
-|Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
-|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
-|Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
-|Inventario de contenidos| Inventario de todos los contenidos de un producto. | 15 |
-|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
-|Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
-|Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
-|Testeos de prototipos| Sesiones de testing de la solución propuesta con al menos 5 usuarios. | 60 |
-|Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
-|Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
-
-## Entrega
-
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
-
-README.md  explicando el proceso del proyecto:
-* Objetivos del proyecto
-* Problemas identificados en la investigación (del cliente y del usuario)
-* Definición del público objetivo
-    * User persona
-    * Customer Journey Map (indicando pain y gain points)
-* Definición de la solución/producto
-* Link a prototipo navegable
-* Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-  del proyecto. 
-* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
-  necesidades del usuario final.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores.
-
-Un video en Loom de máximo 10 minutos explicando tu documento.
-* Estos 10 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución.
-
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso:
-
-* Fotos, videos, guías de las actividades que realizaste
-* Flujo de usuario
-* Mapa de sitio
-* Etc.
-
-## Otras consideraciones
-
-### 1) Planeamiento y presupuesto
-
-Cuando realices el planeamiento de cómo enfrentarás el reto deberás sustentarlo
-ante tu cliente y ante un coach. Ellos te darán la aprobación final para seguir
-con las actividades planteadas.
-
-### 2) Definición del producto
-
-Al definir el producto recuerda pensar en:
-
-* Quiénes son los principales usuarios de producto
-* Cuáles son los objetivos del negocio en relación con el producto
-* Cuáles son los objetivos de estos usuarios en relación con el producto
-* Cuál será la propuesta de valor del sitio que vas a crear
-* Cuáles son los contenidos que el usuarios quiere ver, la información que
-  buscarían para convencerse de comprar, confiar en la empresa que lo ofrece,
-  encontrar lo que busca y comprarlo
-* Cómo vas a distribuir y entregar esos contenidos
-* Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
-* Cómo crees que el producto les está resolviendo sus problemas
-
-### 3) Prototipo de alta fidelidad
-
-Existen varias herramientas que puedes utilizar para crear tu prototipo,
-nosotros recomendamos Figma, sin embargo, eres libre de utilizar otras
-herramientas como Adobe XD, etc. Si eliges Figma tendrás que usar una
-herramienta adicional como Marvel o Invision. Recuerda que el diseño que
-trabajes debe seguir los fundamentos de visual design, como: contraste,
-alineación, jerarquía, entre otros.
-
-## Hacker edition
-
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear tu
-propia web desde 0. 
-- Utiliza los diseños exportados en Zeplin, Handoffs o Inspects y desarróllalos
-utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
-Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que ser
-mobile-friendly. Despliega el código en GitHub Pages o Heroku.
-- Escribe un post en Medium contando tu proceso de investigación
-
-## Evaluación
-
-Recuerda revisar la rúbrica para ver la descripción detallada de cada habilidad
-y cada nivel. A continuación presentamos los niveles esperados de cada habilidad
-que deberías alcanzar al finalizar este proyecto:
-
-### UX Design
-
-|Habilidad|Nivel Esperado|
-|:---|:---:|
-|User centricity| 4 |
-|Planificación| 3 |
-|Entrevistas y testing| 3 |
-|Observación| 2 |
-|Síntesis de resultados| 3 |
-|Flujos de usuario| 3 |
-|Arquitectura de la información| 3 |
-|Prototyping| 3 |
-|Business mindset| 4 |
-|Visual Design| 4 |
-
-### Habilidades blandas
-
-|Habilidad|Nivel Esperado|
-|:---|:---:|
-|Planificación y organización| 4 |
-|Autoaprendizaje| 4 |
-|Solución de problemas| 4 |
-|Dar y recibir feedback| 4 |
-|Adaptabilidad| 4 |
-|Trabajo en equipo| 4 |
-|Comunicación eficaz| 4 |
-|Presentaciones| 4 |
+Por otro lado, les frustra que pueda existir inseguridad comprando en línea, desorden y entrega fuera de tiempo 
