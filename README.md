@@ -1,4 +1,7 @@
 # MARKET PLACE - ONE LOVE
+> Proyecto realizado por Debbie Vejarano
+
+![logo marca](https://fotos.subefotos.com/8c63d1a6803f585ecc0215a4cfd672e8o.jpg)
 
 ## Objetivo del proyecto
 
