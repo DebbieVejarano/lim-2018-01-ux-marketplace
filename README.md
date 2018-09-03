@@ -26,7 +26,7 @@ Al entrar en contacto con la página de facebook, los usuarios suelen estar muy 
 
 Tambien se sintetizó en un user persona:
 
-![user person](https://subefotos.com/ver/?b9d1f76725aee8756b3e05f8c134ef22o.jpg#codigos)
+![user person](https://fotos.subefotos.com/b9d1f76725aee8756b3e05f8c134ef22o.jpg)
 
 
 ## Definición de la solución
@@ -37,6 +37,7 @@ En cuanto al tiempo de entrega, sí se llega a cumplir el acuerdo. Por ende, pot
 
 ## Link a prototipos
 Revisa [el prototipo interactivo del desktop](https://www.figma.com/file/N2jgGGTyUkneynXbgbNFTRbM/ONE-LOVE-DESKTOP).
+
 Revisa [el prototipo interactivo del mobile](https://www.figma.com/file/FsLLFW4wGAOlJ0zEpD11TaQ3/ONE-LOVE-MOBILE-iteraci%C3%B3n).
 
 ## ¿Cómo resolvemos los contenidos y la funcionalidad del proyecto?
