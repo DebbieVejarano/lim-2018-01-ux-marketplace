@@ -40,6 +40,9 @@ Revisa [el prototipo interactivo del desktop](https://www.figma.com/file/N2jgGGT
 
 Revisa [el prototipo interactivo del mobile](https://www.figma.com/file/FsLLFW4wGAOlJ0zEpD11TaQ3/ONE-LOVE-MOBILE-iteraci%C3%B3n).
 
+## Link a zeplin
+Revisa la [versión desktop en zeplin](https://zpl.io/brEQP33)
+
 ## ¿Cómo resolvemos los contenidos y la funcionalidad del proyecto?
 El proyecto permite que los usuarios interactuan con una plataforma de venta de ropa en línea. De esta manera, pueden revisar prendas de su interés y comprarlas si así lo desean.
 
