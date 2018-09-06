@@ -47,7 +47,7 @@ El proyecto permite que los usuarios interactuan con una plataforma de venta de 
 El producto final, cuenta con un banner que difunde mensajes como "seguridad en su compra", una arquitectura de la información, como resultado de card sorting, ordenada por categorías y validada por los usuarios. Además, un registro de usuario que permitiría que pueda iniciar sesión y vea su estado de compra.
 
 ## Video de 10 min
-Mira [el video explicando el proceso AQUÍ]
+Mira [el video explicando el proceso AQUÍ](https://www.youtube.com/watch?v=gM05egTkvXQ)
 
 ## Definición del producto
 
