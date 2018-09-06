@@ -42,6 +42,7 @@ Revisa [el prototipo interactivo del mobile](https://www.figma.com/file/FsLLFW4w
 
 ## Link a zeplin
 Revisa la [versión desktop en zeplin](https://zpl.io/brEQP33)
+Revisa la [versión mobile en zeplin](https://zpl.io/a3l8OGl)
 
 ## ¿Cómo resolvemos los contenidos y la funcionalidad del proyecto?
 El proyecto permite que los usuarios interactuan con una plataforma de venta de ropa en línea. De esta manera, pueden revisar prendas de su interés y comprarlas si así lo desean.
