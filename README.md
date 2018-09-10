@@ -20,8 +20,8 @@ En lo que respecta a los usuarios, tienden a tener mucha desconfianza a comprar 
 
 Gracias a la información obtenida de la cliente, conocemos que sus compradoras oscilan entre los 18 y 30 años. 
 Además, al sintetizar la información pudimos construir dos Journey Maps y un user persona.
-En cuanto al Journey Map, decidimos elaborar uno para compras por delivery y oreo para compras presenciales. Me voy a enfocar en explicar el primero, porque es el que más información nos puede aportar, ya que, estos usuarios serían nuestro público objetivo.
-Al entrar en contacto con la página de facebook, los usuarios suelen estar muy contentos porlos memes que publican y las imágenes de las prendas; sin embargo, al empezar a buscar información llega el primer punto de dolor y el más intenso por el desorden para encontrar el detalle de los productos. Después lo demás esta todo muy normal
+En cuanto al Journey Map, decidimos elaborar uno para compras por delivery y otro para compras presenciales. Me voy a enfocar en explicar el primero, porque es el que más información nos puede aportar, ya que, estos usuarios serían nuestro público objetivo.
+Al entrar en contacto con la página de facebook, los usuarios suelen estar muy contentos porlos memes que publican y las imágenes de las prendas; sin embargo, al empezar a buscar información llega el primer punto de dolor y el más intenso por el desorden para encontrar el detalle de los productos. Después lo demás esta todo muy bastante normal.
 
 ![journey map](https://fotos.subefotos.com/e48015b6979b81b33794e57f3b36d32do.jpg)
 
