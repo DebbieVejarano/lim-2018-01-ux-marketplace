@@ -22,7 +22,7 @@ Además, al sintetizar la información pudimos construir dos Journey Maps y un u
 En cuanto al Journey Map, decidimos elaborar uno para compras por delivery y oreo para compras presenciales. Me voy a enfocar en explicar el primero, porque es el que más información nos puede aportar, ya que, estos usuarios serían nuestro público objetivo.
 Al entrar en contacto con la página de facebook, los usuarios suelen estar muy contentos porlos memes que publican y las imágenes de las prendas; sin embargo, al empezar a buscar información llega el primer punto de dolor y el más intenso por el desorden para encontrar el detalle de los productos. Después lo demás esta todo muy normal
 
-![journey map](https://fotos.subefotos.com/37629346d82bec4984dbc4f2f6585611o.jpg)
+![journey map](https://fotos.subefotos.com/e48015b6979b81b33794e57f3b36d32do.jpg)
 
 Tambien se sintetizó en un user persona:
 
