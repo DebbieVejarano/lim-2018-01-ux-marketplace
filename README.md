@@ -8,7 +8,8 @@ Diseñar un nuevo portal de e -comerce para una empresa minorista. De esta maner
 
 ## ¿Qué es One Love?
 One Love es una tienda para señoritas entre 18 y 30 años. Su éxito radica, principalmente, al boom de las redes sociales. En la actualidad venden productos por facebook e Instagram.
-Revisa [presentación del producto](https://docs.google.com/presentation/d/1sAYuZ9awqnoQYfLkG3-8BLhILsEGoHF6EoWFpeu5KX4/edit?usp=sharing)
+
+Para conocer más al detalle el proyecto, revisa la [presentación del producto](https://docs.google.com/presentation/d/1sAYuZ9awqnoQYfLkG3-8BLhILsEGoHF6EoWFpeu5KX4/edit?usp=sharing)
 
 ## Problemas identificados durante la investigación
 Con respecto al cliente, su problema reside en desconocer la gestión de un market place que le permita reducir costos en pagar personal, alquiler y mantenimiento del local. Además de la gran oportunidad de optimizar sus ventas por delivery.
