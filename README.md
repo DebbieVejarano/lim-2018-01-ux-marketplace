@@ -26,7 +26,7 @@ Al entrar en contacto con la página de facebook, los usuarios suelen estar muy 
 
 Tambien se sintetizó en un user persona:
 
-![user person](https://ibb.co/exTx9p)
+![user person]([img]http://img.fenixzone.net/i/bVwPRpq.jpeg[/img])
 
 
 ## Definición de la solución
