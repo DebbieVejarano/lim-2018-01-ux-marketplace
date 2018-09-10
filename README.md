@@ -1,7 +1,7 @@
 # MARKET PLACE - ONE LOVE
 > Proyecto realizado por Debbie Vejarano
 
-![logo marca](https://fotos.subefotos.com/8c63d1a6803f585ecc0215a4cfd672e8o.jpg)
+![logo marca](https://fotos.subefotos.com/4d07eeead61b964fe7c8224e4a2100e6o.jpg)
 
 ## Objetivo del proyecto
 Diseñar un nuevo portal de e -comerce para una empresa minorista. De esta manera, este negocio puede comercializar sus productos sin intermediarios. De esta manera, se reducirían los costos para los fabricantes y los usuarios también podrían acceder a comprar a un menor precio.
