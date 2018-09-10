@@ -26,7 +26,7 @@ Al entrar en contacto con la página de facebook, los usuarios suelen estar muy 
 
 Tambien se sintetizó en un user persona:
 
-![user person](https://fotos.subefotos.com/b9d1f76725aee8756b3e05f8c134ef22o.jpg)
+![user person]()
 
 
 ## Definición de la solución
