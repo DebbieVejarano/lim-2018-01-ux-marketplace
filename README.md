@@ -1,5 +1,6 @@
 # MARKET PLACE - ONE LOVE
-> Proyecto de Ux Design para una plataforma e-comerce con la maarcaa One Love
+> Proyecto de Ux Design para una plataforma e-comerce con la marca One Love
+
 ![logo marca](https://fotos.subefotos.com/4d07eeead61b964fe7c8224e4a2100e6o.jpg)
 
 ## Objetivo del proyecto
