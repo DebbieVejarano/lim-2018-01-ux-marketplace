@@ -62,7 +62,7 @@ La página es bastante sensilla e intuitiva y permite ver el estado de compra de
 El usuario quiere ver que interactua con una página segura, quiere ver imágenes de las prendas, quiere poder ver la descripción de los productos, las tallas exactas de las prendas y ofertas y promociones que lo animen a comprar.
 
 ### Mapa de sitio
-![mapa de sitio](https://fotos.subefotos.com/1ff0428330da75bc5e5335c30085d0d7o.jpg)
+![mapa de sitio](http://img.fenixzone.net/i/AizuITy.jpeg)
 
 ### Resumen de entrevistas
 Como resumen general, las usuarias se caracterizan por seguir la moda urbana. Sin embargo, de vez en cuando no dudan en usar otras prendas como vestidos y blazers para ir a trabajar o sentirse más bonitas. Lo que más valoran a la hora de comprar es la seguridad porque viven en un entorno de delincuencia. Otro aspecto que tienen en común es la valoración del tiempo, este es el principal factor que las motiva a comprar por internet. Otros aspectos que valoran son la variedad y la calidad de los productos.
